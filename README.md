@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lakkimsetti eswar sai kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakkimsetti eswar sai kumar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lakkimsetti-eswar-sai-kumar-584aa2251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakkimsetti eswar sai kumar" height="30" width="40" /></a>
 <a href="https://instagram.com/eswar.sai.kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eswar.sai.kumar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/eswar_sai_kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="eswar_sai_kumar" height="30" width="40" /></a>
 </p>
