@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lakkimsetti Eswar Sai Kumar</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://linkedin.com/in/lakkimsetti eswar sai kumar">Lakkimsetti Eswar Sai Kumar</a></h1>
 <h3 align="center">A Passionate DevOps Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eswar-sai-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="eswar-sai-kumar" /> </p>
@@ -8,6 +8,8 @@
 - 📫 How to reach me **eswarsaikumar2@gmail.com**
 
 - ⚡ Fun fact **I talk to my Linux terminal more than I talk to people! 💻🐧**
+  
+- 🌱 I’m currently learning **DevOps with AWS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
