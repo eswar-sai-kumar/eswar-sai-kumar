@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I talk to my Linux terminal more than I talk to people! 💻🐧**
   
-- 🌱 I’m currently learning **DevOps with AWS**
+- 🌱 I’m currently preparing for **AWS Solutions Architect Associate Exam**
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
