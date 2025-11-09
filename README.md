@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm <a href="https://linkedin.com/in/lakkimsetti eswar sai kumar">Lakkimsetti Eswar Sai Kumar</a></h1>
 <h3 align="center">A Passionate DevOps and Cloud Enthusiast from India</h3>
 
+<img width="200" height="200" align="center" alt="cp" src="https://github.com/user-attachments/assets/7092d4c1-3edb-473e-b7dc-bdeea0b92ee2" />
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eswar-sai-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="eswar-sai-kumar" /> </p>
 
 - 📝 I regularly write articles on [https://medium.com/@eswarsaikumar2](https://medium.com/@eswarsaikumar2)
