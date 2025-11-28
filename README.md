@@ -5,6 +5,8 @@
 <h4>🏆 Certifications</h4>
 <br>
 <img width="150" height="150" align="center" alt="cp" src="https://github.com/user-attachments/assets/7092d4c1-3edb-473e-b7dc-bdeea0b92ee2" />
+<img width="150" height="150" align="center" alt="cp" src="https://github.com/user-attachments/assets/8cae83b1-5c1b-404d-a545-936477796e22" />
+
 <p> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eswar-sai-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="eswar-sai-kumar" /> </p>
 
@@ -14,7 +16,6 @@
 
 - ⚡ Fun fact **I talk to my Linux terminal more than I talk to people! 💻🐧**
   
-- 🌱 I’m currently preparing for **AWS Solutions Architect Associate Exam**
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
