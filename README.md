@@ -4,8 +4,16 @@
 
 <h4>🏆 Certifications</h4>
 <br>
-<img width="150" height="150" align="center" alt="cp" src="https://github.com/user-attachments/assets/7092d4c1-3edb-473e-b7dc-bdeea0b92ee2" />
-<img width="150" height="150" align="center" alt="cp" src="https://github.com/user-attachments/assets/8cae83b1-5c1b-404d-a545-936477796e22" />
+<a href="https://www.credly.com/badges/7880dc8f-50c8-4275-a95f-21ae4c8fa6e0/linked_in" target="_blank">
+  <img width="150" height="150" align="center" alt="cp"
+       src="https://github.com/user-attachments/assets/7092d4c1-3edb-473e-b7dc-bdeea0b92ee2" />
+</a>
+
+<a href="https://www.credly.com/badges/90d086f1-eb9f-4a4d-8939-8c629fae5276/linked_in_profile" target="_blank">
+  <img width="150" height="150" align="center" alt="cp" 
+       src="https://github.com/user-attachments/assets/8cae83b1-5c1b-404d-a545-936477796e22" />
+</a>
+
 
 <p> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eswar-sai-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="eswar-sai-kumar" /> </p>
