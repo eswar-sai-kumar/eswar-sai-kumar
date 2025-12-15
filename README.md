@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://linkedin.com/in/lakkimsetti eswar sai kumar">Lakkimsetti Eswar Sai Kumar</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/lakkimsetti-eswar-sai-kumar/">Lakkimsetti Eswar Sai Kumar</a></h1>
 <h3 align="center">A Passionate DevOps and Cloud Enthusiast from India</h3>
 
 
